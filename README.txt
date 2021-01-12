@@ -1,5 +1,7 @@
 CS349 Assignment 2
-A Breakout Game by Igor Tvorogov (ID# 20554000)
+A Breakout Game by Igor Tvorogov
+
+*Must be built and run using Gradle. Alternatively, you can import the code to IntelliJ IDEA as a project and run it from there.
 
 Features:
 -Five distinct levels
